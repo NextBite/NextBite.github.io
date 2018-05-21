@@ -47,6 +47,24 @@ p {
   margin-bottom: 20px;
 }
 
+.section-heading p {
+  text-align: left;
+  padding-top: 20px;
+}
+
+ul {
+  text-align: left !important;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.section-heading h3 {
+  text-align: left;
+  margin-top: 50px;
+  margin-bottom: 0px;
+  font-weight: bold;
+}
+
 section {
   padding: 100px 0;
 }
